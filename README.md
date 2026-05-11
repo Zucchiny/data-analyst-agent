@@ -254,12 +254,23 @@ DANGEROUS_CODE = [
 > Загрузка файла и инструкция для агента
 
 ### Веб-интерфейс — работа агента
+<img width="1861" height="974" alt="streamlit_agent_1" src="https://github.com/user-attachments/assets/00c63db5-157b-4d79-be93-f99614418811" />
+<img width="1859" height="968" alt="streamlit_agent_2" src="https://github.com/user-attachments/assets/f33e6e60-df25-4a07-b014-051e17c0560d" />
 > Пошаговое выполнение анализа с раскрывающимися блоками
 
 ### Веб-интерфейс — результаты
+<img width="1869" height="970" alt="streamlit_report_1" src="https://github.com/user-attachments/assets/949aa7e2-ec3e-4f55-8d89-43f8e2c7500d" />
+<img width="1862" height="968" alt="streamlit_report_2" src="https://github.com/user-attachments/assets/c4cdb935-ec7b-460e-8b48-71f042809e99" />
+<img width="1862" height="971" alt="streamlit_report_3" src="https://github.com/user-attachments/assets/9b214373-579b-42e5-b853-470907adbc9c" />
+<img width="1874" height="973" alt="streamlit_report_4" src="https://github.com/user-attachments/assets/660999ca-ec8d-4d8d-bc78-ae4fa8621c4f" />
 > Графики, финальный отчёт, кнопка скачивания HTML
 
 ### Telegram-бот
+<img width="905" height="566" alt="telegram_bot_1" src="https://github.com/user-attachments/assets/14a3c3d9-d81a-474d-b890-aaadfde853c7" />
+<img width="1284" height="977" alt="telegram_bot_2" src="https://github.com/user-attachments/assets/b2b971c0-9705-4e62-9bed-37cc7ea03cd2" />
+<img width="1283" height="1015" alt="telegram_bot_3" src="https://github.com/user-attachments/assets/bedac87c-4276-4691-a1c7-e5969945cc1e" />
+<img width="1283" height="1017" alt="telegram_bot_4" src="https://github.com/user-attachments/assets/7d4be1d0-0d45-4284-a41f-644ace0765f8" />
+<img width="1284" height="1080" alt="telegram_bot_5" src="https://github.com/user-attachments/assets/9ba14468-3bf3-46b4-9a41-c2da83e0af89" />
 > Загрузка CSV → анализ → отчёт и графики в чате
 
 ---
