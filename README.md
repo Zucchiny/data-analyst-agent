@@ -250,7 +250,7 @@ DANGEROUS_CODE = [
 
 ## 📸 Скриншоты
 
-### Веб-интерфейс — главная страница
+<img width="1862" height="922" alt="streamlit_main" src="https://github.com/user-attachments/assets/c3a1c035-514c-4bd4-9050-fb4c07a382dc" />
 > Загрузка файла и инструкция для агента
 
 ### Веб-интерфейс — работа агента
